@@ -1,2 +1,2 @@
 # aulas_python
- arquivos de aulas .py *(python)
+ arquivos de aulas .py *(python)*
